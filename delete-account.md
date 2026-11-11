@@ -11,11 +11,11 @@ This removes you from your household and deletes your sign-in. Your places, item
 
 ## By email
 
-If you no longer have the app, email [ferozshahid.dev@gmail.com](mailto:ferozshahid.dev@gmail.com?subject=Delete%20my%20Stock-IT%20account) from the Google account you signed in with. Your account and your membership of any household are deleted within 30 days.
+If you no longer have the app, email [ClimbedApps@gmail.com](mailto:climbedapps@gmail.com?subject=Delete%20my%20Stock-IT%20account) from the Google account you signed in with. Your account and your membership of any household are deleted within 30 days.
 
 ## What's deleted
 
-- Your sign-in: name, email address, profile photo link and user ID.
+- Your sign-in: name, email address and user ID.
 - Your household membership and your entries in the household's activity feed.
 - If you own the household and no one else is in it, the household and everything in it.
 
