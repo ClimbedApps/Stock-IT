@@ -39,4 +39,4 @@ Stock-IT is not directed at children under 13.
 
 ## Contact
 
-[ferozshahid.dev@gmail.com](mailto:ferozshahid.dev@gmail.com)
+[ferozshahid.dev@gmail.com](mailto:climbedapps@gmail.com)
