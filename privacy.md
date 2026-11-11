@@ -1,6 +1,7 @@
 # Stock-IT privacy policy
 
-Last updated 11 November 2026. Stock-IT is a household inventory app
+Last updated 12 November 2026. Stock-IT is a household inventory app by Feroz Shahid.
+
 ## Without signing in
 
 Everything you add (places, items, dates, quantities and your grocery list) stays on your phone. The only thing the app sends anywhere is a barcode number when you scan a product, which goes to Open Food Facts to look up its name and category. There is no account, analytics, advertising or tracking.
@@ -11,7 +12,7 @@ If your phone's Android backup is on, the app's data is included in your own Goo
 
 Sharing, sync between your own devices, and the cloud backup are optional and are one feature. When you sign in with Google to start or join a household:
 
-- Your Google name, email address and profile photo link are used to sign you in with Google's sign-in service.
+- Your Google name and email address are used to sign you in with Google's sign-in service. Only your first name is shown to your household.
 - Your household's places, items, dates, quantities, grocery lists, stock history and a 30-day activity feed are stored on Google Cloud servers in the UK (London). This lets everyone in the household, and your own phone and tablet, see the same thing, and lets a new phone get everything back when you sign in.
 - Only the people in your household can see it. Security rules stop anyone else, including other Stock-IT users, from reading it.
 - Data is encrypted in transit and at rest by Google. It is never sold, shared with third parties or used for advertising.
