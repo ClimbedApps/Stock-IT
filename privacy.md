@@ -1,7 +1,6 @@
 # Stock-IT privacy policy
 
-Last updated 11 November 2026. Stock-IT is a household inventory app by Feroz Shahid.
-
+Last updated 11 November 2026. Stock-IT is a household inventory app
 ## Without signing in
 
 Everything you add (places, items, dates, quantities and your grocery list) stays on your phone. The only thing the app sends anywhere is a barcode number when you scan a product, which goes to Open Food Facts to look up its name and category. There is no account, analytics, advertising or tracking.
