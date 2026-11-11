@@ -23,7 +23,7 @@ Sharing, sync between your own devices, and the cloud backup are optional and ar
 - If you leave a household, your membership and your activity feed entries are removed straight away. Everyone else keeps the household.
 - If the owner leaves, or the owner's Premium subscription ends, the whole household is deleted from our servers.
 - If a household's owner stops using the app without doing either, the household is deleted automatically 30 days after their Premium ends.
-- A Google sign-in that isn't in any household and hasn't been used for 90 days is deleted automatically.
+- You're signed out of Google whenever you're no longer in a household, and a Google sign-in that isn't in any household is deleted from our servers within a day.
 - In every case, everyone keeps the copy on their own phone.
 
 ## Purchases
