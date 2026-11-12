@@ -1,6 +1,6 @@
 # Stock-IT privacy policy
 
-Last updated 12 November 2026. Stock-IT is a household inventory app by Feroz Shahid.
+Last updated 12 November 2026. Stock-IT is a household inventory app by ClimbedApps.
 
 ## Without signing in
 
